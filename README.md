@@ -7,7 +7,7 @@ Pick an appliance type (dishwasher, washing machine, air purifier, EV charger an
 <img width="514" height="667" alt="image" src="https://github.com/user-attachments/assets/52fbf24a-c083-4d90-b02e-19b3c5a18546" />
 <img width="1037" height="843" alt="image" src="https://github.com/user-attachments/assets/f66064a1-e22b-418a-b3b1-555012094a3c" />
 <img width="503" height="757" alt="image" src="https://github.com/user-attachments/assets/2f293b1b-2245-4282-b870-7ab96bab1bb2" />
-<img width="600" height="540" alt="demo_600" src="https://github.com/user-attachments/assets/c019667f-36be-4f6f-9acf-1f2f3476978a" />
+<img width="100%" alt="demo_600" src="https://github.com/user-attachments/assets/c019667f-36be-4f6f-9acf-1f2f3476978a" />
 
 
 
